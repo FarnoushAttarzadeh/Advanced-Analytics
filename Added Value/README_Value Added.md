@@ -5,3 +5,4 @@
 4- Finally, it turned out the tables are very similar, just the portal's data isn't cleaned and have duplicates and null, then the result was presented in a dashboard.
 
 ![Value Added](Dashboard_ValueAdded.jpg/ "ValueAdded Dashboard")
+![Value Added](Dashboard_ValueAdded2.jpg/ "ValueAdded Dashboard2")
