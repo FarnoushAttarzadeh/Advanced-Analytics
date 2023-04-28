@@ -3,4 +3,4 @@ The business team was interested in finding the status of work orders related to
 I searched for the best tables with examining varios features, in snoflake, then cleaned these data and found the needed criteria and finally binned the "open days" span and their status.
 In the final step, I presented these findings in a dashboard and worked on which clients has major struggles and where are the points for improvements.
 
-![HVAC](HVAC_ Dashboard.png "HVAC Dashboard")
+![HVAC](HVAC_ Dashboard.png/ "HVAC Dashboard")
