@@ -4,4 +4,4 @@
 3- Then imported the portal's data and compared them by snowflake's data by features such as "work order number", " Submitted date", " Submission Id" and etc.
 4- Finally, it turned out the tables are very similar, just the portal's data isn't cleaned and have duplicates and null, then the result was presented in a dashboard.
 
-![Value Added](Added Value/Dashboard_ValueAdded.jpg/ "ValueAdded Dashboard")
+![Value Added](Dashboard_ValueAdded.jpg/ "ValueAdded Dashboard")
