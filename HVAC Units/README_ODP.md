@@ -4,3 +4,5 @@ I searched for the best tables with examining varios features, in snoflake, then
 In the final step, I presented these findings in a dashboard and worked on which clients has major struggles and where are the points for improvements.
 
 ![HVAC](HVAC_ Dashboard.png/ "HVAC Dashboard")
+
+![Value Added](HVAC_ Dashboard2.png/ "ValueAdded Dashboard")
