@@ -4,6 +4,4 @@ I searched for the best tables with examining varios features, in snoflake, then
 In the final step, I presented these findings in a dashboard and worked on which clients has major struggles and where are the points for improvements.
 
 
-![ODP](HVAC_ Dashboard.jpg)
-
-![ODP](HVAC_ Dashboard2.jpg)
+![ODP](https://github.com/FarnoushAttarzadeh/Nearest_Neighbour/blob/2a3f03b285583640369744521521a30f74c10d6a/HVAC%20Units/HVAC_%20Dashboard.jpg)
