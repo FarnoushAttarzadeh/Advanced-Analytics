@@ -4,6 +4,6 @@ I searched for the best tables with examining varios features, in snoflake, then
 In the final step, I presented these findings in a dashboard and worked on which clients has major struggles and where are the points for improvements.
 
 
-![HVAC Units](HVAC_ Dashboard.jpg)
+![HVAC Units](/HVAC_ Dashboard.jpg)
 
 #![HVAC Units](HVAC_ Dashboard2.jpg)
