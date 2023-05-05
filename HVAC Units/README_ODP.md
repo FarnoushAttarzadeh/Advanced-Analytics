@@ -6,4 +6,4 @@ In the final step, I presented these findings in a dashboard and worked on which
 
 ![HVAC Units](HVAC_ Dashboard.jpg)
 
-![HVAC Units](HVAC_ Dashboard2.jpg)
+#![HVAC Units](HVAC_ Dashboard2.jpg)
