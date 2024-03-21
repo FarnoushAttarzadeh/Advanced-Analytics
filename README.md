@@ -1,1 +1,1 @@
-This repository includes the scripts, dashboard and samples imgaes of the 4 projects that I wokred on during my BI intership in summer of 2022.
+This repository includes the scripts, dashboard, and sample images of the 4 projects I worked on during my BI internship (advanced analytics) in the summer of 2022.
